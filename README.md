@@ -32,10 +32,20 @@ STEPS to follow:
 
 	•	Changes in specific directories and files:
 	
-	Follow Steps Given In Changes.py file
+Follow Steps Given In Changes.py file
 	
 
 RESULTS
+
+![Pyramidbox photo1](https://user-images.githubusercontent.com/87081613/156588770-a1c2c930-ed2e-479a-bec2-a861f22bd3e5.jpeg)
+![PyramidBox Photo 2](https://user-images.githubusercontent.com/87081613/156589414-9e04cbd3-0697-4e6b-8ef6-7e606a3de099.jpeg)
+![PyramidBox Photo 3](https://user-images.githubusercontent.com/87081613/156589453-1878d22a-1e16-48a7-9072-87802de276f9.jpeg)
+![PyramidBox Photo 4](https://user-images.githubusercontent.com/87081613/156589482-1e3ce9f2-93f6-4f36-92cf-53fedb456921.jpeg)
+
+PRECISION Vs RECALL CURVE
+
+![PyramidBox Photo 5](https://user-images.githubusercontent.com/87081613/156589620-2a690d8a-c5c0-4b70-8288-cba92c6923fb.jpeg)
+
  
        
 
